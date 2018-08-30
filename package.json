@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glinkis/nextjs-test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glinkis/nextjs-test-project/issues"
+  },
+  "homepage": "https://github.com/Glinkis/nextjs-test-project#readme",
+  "dependencies": {
+    "@zeit/next-typescript": "^1.1.0",
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "@types/next": "^6.1.4",
+    "@types/react": "^16.4.13",
+    "@types/styled-jsx": "^2.2.5"
+  }
+}
